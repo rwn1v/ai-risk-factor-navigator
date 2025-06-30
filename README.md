@@ -33,7 +33,7 @@ python app.py
 Then open your browser to `http://127.0.0.1:8050`
 
 ## Example Output
-![Example Screenshot](./screenshots/factor_exposures_example.png)
+![Example Screenshot](./assets/screenshot.jpeg)
 
 ## Notes
 - Data pulled from Yahoo Finance and FRED (via `pandas_datareader`)
